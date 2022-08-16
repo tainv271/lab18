@@ -1,0 +1,22 @@
+.bg-img1 {
+  height: 70vh;
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://hoanghapc.vn/media/news/0510_hinh_nen_phong_canh16.jpg);
+}
+
+.bg-img2 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://hanoispiritofplace.com/wp-content/uploads/2018/02/hinh-nen-may-tinh-thien-nhien-dep-kich-thuoc-lon-full-hd-4.jpg);
+}
+
+.bg-img3 {
+  background-color: #000;
+  background-size: cover;
+  background-image: url(https://img.thuthuatphanmem.vn/uploads/2018/10/26/anh-nen-thien-nhien-kich-thuoc-lon_091928186.jpg);
+}
+
+.carousel-caption {
+  bottom: 15%;
+}
